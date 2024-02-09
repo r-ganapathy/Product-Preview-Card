@@ -1,2 +1,2 @@
 # Product-Preview-Card
-This is NewBie Project 
+This is NewBie design
